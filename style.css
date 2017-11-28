@@ -52,7 +52,7 @@ HEADING/NAVIGATION/FOOTER
 .main-header{
 	height: 850px;
     width: 100%;
-	background: green url(https://user-images.githubusercontent.com/27751696/33339318-bbcf32d4-d446-11e7-9ccf-9fdfdc556a02.jpg) no-repeat center;
+	background: green url('https://user-images.githubusercontent.com/27751696/33339318-bbcf32d4-d446-11e7-9ccf-9fdfdc556a02.jpg') no-repeat center;
     background-size: cover;
 	padding-top: .5em;
     padding-bottom: .5em;
